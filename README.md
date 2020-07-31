@@ -1,9 +1,11 @@
 ### Hello guy 👋
 
-[![Ason's github stats](https://github-readme-stats.vercel.app/api?username=SongFuZhen&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/SongFuZhen) [![Ason's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongFuZhen&layout=compact&theme=tokyonight)](https://github.com/SongFuZhen)
+[![Ason's github stats](https://github-readme-stats.vercel.app/api?username=SongFuZhen&count_private=true&hide=contribs&show_icons=true)](https://github.com/SongFuZhen) [![Ason's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongFuZhen&layout=compact)](https://github.com/SongFuZhen)
 
 
 <!--
+&theme=tokyonight
+
 **SongFuZhen/SongFuZhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
